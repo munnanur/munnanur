@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @munnanur
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python,C,C++
-- 💞️ I’m looking to collaborate on Fleet
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
